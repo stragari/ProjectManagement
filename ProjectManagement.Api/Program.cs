@@ -31,6 +31,18 @@ builder.Services.AddSingleton<IProjectRepository, MongoProjectRepository>();
 // The container will automatically handle injecting the IProjectRepository.
 builder.Services.AddScoped<IProjectService, ProjectService>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularApp",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                .AllowAnyHeaders()
+                .AllowAnyMethods();
+        });
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -43,6 +55,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//app.UseHttpsRedirection();
+app.UseCors("AllowAngularApp");
 app.UseAuthorization();
 app.MapControllers();
 
