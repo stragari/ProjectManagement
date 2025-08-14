@@ -1,0 +1,15 @@
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.deps.json
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.pdb
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Core.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Core.pdb
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.AssemblyInfo.cs
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectM.60AD468C.Up2Date
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\refint\ProjectManagement.Infrastructure.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.pdb
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ref\ProjectManagement.Infrastructure.dll

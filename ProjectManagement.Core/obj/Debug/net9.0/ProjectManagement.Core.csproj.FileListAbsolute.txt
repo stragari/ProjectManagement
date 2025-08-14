@@ -1,0 +1,11 @@
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\bin\Debug\net9.0\ProjectManagement.Core.deps.json
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\bin\Debug\net9.0\ProjectManagement.Core.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\bin\Debug\net9.0\ProjectManagement.Core.pdb
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.AssemblyInfoInputs.cache
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.AssemblyInfo.cs
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.csproj.CoreCompileInputs.cache
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\refint\ProjectManagement.Core.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.pdb
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ref\ProjectManagement.Core.dll
