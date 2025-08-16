@@ -13,3 +13,4 @@ D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\D
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\refint\ProjectManagement.Infrastructure.dll
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.pdb
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ref\ProjectManagement.Infrastructure.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@ D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\refint\ProjectManagement.Core.dll
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.pdb
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ref\ProjectManagement.Core.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Core\obj\Debug\net9.0\ProjectManagement.Core.sourcelink.json

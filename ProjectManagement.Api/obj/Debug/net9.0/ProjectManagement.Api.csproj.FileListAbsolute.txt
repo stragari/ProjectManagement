@@ -43,3 +43,4 @@ D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Api\obj\Debug\net9.0
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Api\obj\Debug\net9.0\ProjectManagement.Api.pdb
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Api\obj\Debug\net9.0\ProjectManagement.Api.genruntimeconfig.cache
 D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Api\obj\Debug\net9.0\ref\ProjectManagement.Api.dll
+D:\projects\edu\Angular\ProjectManagement\ProjectManagement.Api\obj\Debug\net9.0\ProjectManagement.Api.sourcelink.json
